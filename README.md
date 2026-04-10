@@ -1,15 +1,14 @@
-# Olá, eu sou o Ryan!
+# Ryan | Software Development & Cloud Solutions
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=800&lines=O+propósito+é+o+que+nos+faz+começar.;A+determinação+é+o+que+nos+faz+continuar." alt="Typing SVG" />
 </p>
-<p align="center">─ Ryan ─</p>
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante dedicado de desenvolvimento de software na **ETEC**.
-- 💡 Apaixonado por lógica de programação e arquitetura de sistemas.
-- 🚀 Atualmente explorando o ecossistema de nuvem e contêineres.
-- 🌍 Localizado em: São Paulo, Brasil.
+- 🎓 Estudante de Desenvolvimento de Software focado em soluções escaláveis.
+- 💡 Interessado em Arquitetura de Sistemas e Lógica de Programação.
+- 🚀 Atualmente explorando Ecossistemas Cloud e Conteinerização (Docker/Azure).
+- 🌍 Baseado em São Paulo, Brasil.
 
 ---
 
