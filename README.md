@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou o Ryan! 👋 
 
-<!--
-**Ryan-devzz/Ryan-devzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20ótimo%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs&theme=tokyonight" alt="Frase do Dia" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
+- 🎓 Estudante dedicado de desenvolvimento de software.
+- 💡 Apaixonado por lógica de programação e arquitetura de sistemas.
+- 🚀 Atualmente explorando o ecossistema de nuvem e contêineres.
+- 🌍 Localizado em: São Paulo, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que fazem parte do meu arsenal:
+
+#### 🌐 Web Core (Front & Back)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+#### ☕ Linguagens de Sistema
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+#### ☁️ DevOps & Nuvem
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-devzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-devzz&layout=compact&langs_count=10&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"A melhor maneira de prever o futuro é inventá-lo."</i>
+</p>
