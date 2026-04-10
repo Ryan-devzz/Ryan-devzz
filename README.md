@@ -1,8 +1,9 @@
 # Olá, eu sou o Ryan!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=O%20propósito%20é%20o%20que%20nos%20faz%20começar.%20A%20determinação%20é%20o%20que%20nos%20faz%20continuar.&author=Ryan&theme=dark&color=388bfd&bg_color=0d1117" alt="Frase de Propósito" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=800&lines=O+propósito+é+o+que+nos+faz+começar.;A+determinação+é+o+que+nos+faz+continuar." alt="Typing SVG" />
 </p>
+<p align="center">─ Ryan ─</p>
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante dedicado de desenvolvimento de software na **ETEC**.
