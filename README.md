@@ -1,4 +1,4 @@
-# Olá, eu sou o Ryan! 👋 
+# Olá, eu sou o Ryan!
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=O%20propósito%20é%20o%20que%20nos%20faz%20começar.%20A%20determinação%20é%20o%20que%20nos%20faz%20continuar.&author=Ryan&theme=tokyonight" alt="Frase de Propósito" />
