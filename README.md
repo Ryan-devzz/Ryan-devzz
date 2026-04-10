@@ -1,7 +1,7 @@
 # Olá, eu sou o Ryan! 👋 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20ótimo%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs&theme=tokyonight" alt="Frase do Dia" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=O%20propósito%20é%20o%20que%20nos%20faz%20começar.%20A%20determinação%20é%20o%20que%20nos%20faz%20continuar.&author=Ryan&theme=tokyonight" alt="Frase de Propósito" />
 </p>
 
 ### 👨‍💻 Sobre mim
