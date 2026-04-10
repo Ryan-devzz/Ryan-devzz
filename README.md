@@ -36,7 +36,6 @@
 ### 📊 Atividade e Contribuições
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/Ryan-devzz?label=Repositórios&style=for-the-badge&color=2496ED" />
   <img src="https://img.shields.io/github/followers/Ryan-devzz?label=Seguidores&style=for-the-badge&color=777BB4" />
   <img src="https://img.shields.io/github/stars/Ryan-devzz?label=Estrelas&style=for-the-badge&color=F7DF1E" />
 </p>
