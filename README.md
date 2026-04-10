@@ -25,10 +25,15 @@ Aqui estão as tecnologias que fazem parte do meu arsenal:
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
-#### ☕ Linguagens de Sistema
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-devzz&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do Ryan" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-devzz&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ryan-devzz?label=Seguidores&style=for-the-badge&color=777BB4" />
 </p>
 
 #### ☁️ DevOps & Nuvem
