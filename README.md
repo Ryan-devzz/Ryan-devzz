@@ -39,11 +39,17 @@ Aqui estão as tecnologias que fazem parte do meu arsenal:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-devzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-devzz&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-devzz&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=Ryan-devzz&layout=compact&theme=tokyonight&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ryan-devzz?label=Seguidores&style=for-the-badge&color=777BB4" />
+  <img src="https://img.shields.io/github/directory-stats/Ryan-devzz?label=Repositórios&style=for-the-badge&color=2496ED" />
 </p>
 
 ---
